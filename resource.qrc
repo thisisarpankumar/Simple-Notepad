@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/aboutIcon.png</file>
+        <file>assets/aboutQtIcon.png</file>
+        <file>assets/copyIcon.png</file>
+        <file>assets/cutIcon.png</file>
+        <file>assets/newFileIcon.ico</file>
+        <file>assets/notepad.png</file>
+        <file>assets/openFileIcon.ico</file>
+        <file>assets/pasteIcon.png</file>
+        <file>assets/quitIcon.png</file>
+        <file>assets/redoIcon.png</file>
+        <file>assets/saveAsFileIcon.ico</file>
+        <file>assets/saveFileIcon.ico</file>
+        <file>assets/undoIcon.png</file>
+        <file>assets/notepad.ico</file>
+        <file>assets/printIcon.ico</file>
+    </qresource>
+</RCC>
